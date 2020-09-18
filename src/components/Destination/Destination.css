@@ -1,0 +1,10 @@
+.home-container {
+    display: flex;
+}
+.details-container {
+    width: 35%;
+    margin-left: 20px;
+}
+.place-container {
+    width: 60%;
+}

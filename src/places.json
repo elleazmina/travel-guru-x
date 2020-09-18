@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "key": "SAJEK",
+        "name": "Sajek",
+        "details": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river. The road to Sajek has high peaks and falls.",
+        "img": "https://i.ibb.co/XksJRbv/Sajek.png"
+    },
+
+    {
+        "id": "2",
+        "key": "SREEMANGAL",
+        "name": "Sreemangal",
+        "details": "Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here. Only one tea research institute in Bangladesh which name is BTRI (Bangladesh Tea Research Institute) is situated in Sreemangal. The terraced tea gardens, plantations and evergreen hills of sreemangal are wonderful treats for the tourists.",
+        "img": "https://i.ibb.co/mG4ymTz/Sreemongol.png"
+    },
+
+    {
+        "id": "3",
+        "key": "SUNDARBAN",
+        "name": "Sundarban",
+        "details": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh. It comprises closed and open mangrove forests, agriculturally used land, mudflats and barren land, and is intersected by multiple tidal streams and channels.",
+        "img": "https://i.ibb.co/VxWs8DP/sundorbon.png"
+    }
+]

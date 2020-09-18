@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+.place-info {
+    width: 40%;
+}
+
+.calendar {
+    width: 50%;
+    margin-left: 30px;
+}

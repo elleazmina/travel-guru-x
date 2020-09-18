@@ -1,0 +1,40 @@
+.header img {
+  margin-top: 50px;
+  height: 150px;
+  filter: brightness(800%);
+}
+.header input {
+  padding: 20px;
+  padding-left: 55px;
+  width: 300px;
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+  background-image: url("https://i.ibb.co/rQ1CDc4/icons8-search-24.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  outline: 0;
+}
+
+.header {
+  /* background-image: url("https://i.ibb.co/k1Fyvq8/Rectangle-1.png"); */
+  text-align: center;
+}
+
+.header nav {
+  margin-top: 50px;
+  line-height: 40px;
+  font-size: 20px;
+}
+nav a {
+  /* background-color: green; */
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+  padding: 5px;
+}
+
+nav a:hover {
+  background-color: gray;
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "roomId":"3",
+        "title": "Light bright airy stylish apt & safe peaceful stay ",
+        "capacity": "4 guests 2 bedrooms 2 beds 2 baths.",
+        "facility": "Wifi air conditioning Kitchen.",
+        "flexibility": " Cancellation flexibility available",
+        "price": 34,
+        "img" : "https://i.ibb.co/ns07n9g/Rectangle-26.png"
+
+    },
+
+    {   
+        "roomId":"2",
+        "title": "Apartment in Lost Panorama ",
+        "capacity": "2 guests 1 bedroom 2 beds 1 bath.",
+        "facility": "Wifi air conditioning Kitchen.",
+        "flexibility": " Cancellation flexibility available",
+        "price": 44,
+        "img" : "https://i.ibb.co/BCsSdqm/Rectangle-27.png"
+
+    },
+
+    {
+        "roomId":"3",
+        "title": "AR Lounge & Pool (r&r + b&b) ",
+        "capacity": "4 guests 2 bedrooms 4 beds 2 baths.",
+        "facility": "Wifi air conditioning Kitchen.",
+        "flexibility": " Cancellation flexibility available",
+        "price": 52,
+        "img" : "https://i.ibb.co/CVyfh62/Rectangle-28.png"
+
+    }
+
+]
